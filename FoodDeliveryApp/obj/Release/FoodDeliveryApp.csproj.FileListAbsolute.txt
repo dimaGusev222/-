@@ -1,0 +1,9 @@
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\bin\Release\FoodDeliveryApp.exe.config
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\bin\Release\FoodDeliveryApp.exe
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\bin\Release\FoodDeliveryApp.pdb
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.csproj.AssemblyReference.cache
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.Properties.Resources.resources
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.csproj.GenerateResource.cache
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.exe
+C:\Users\bdfy\Documents\FoodDeliveryApp\FoodDeliveryApp\obj\Release\FoodDeliveryApp.pdb
